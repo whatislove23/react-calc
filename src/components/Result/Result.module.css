@@ -1,0 +1,14 @@
+.numInput {
+  margin: 20px auto;
+  align-self: end;
+  font-size: 60px;
+  line-height: 60px;
+  text-align: right;
+  padding: 0 20px;
+  margin-bottom: 20px;
+  color: white;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  width: 90%;
+  word-break: break-all;
+}
